@@ -1,5 +1,6 @@
 CodeAlpha_Tasks
 Python Internship Tasks - Hangman Game and Basic Chatbot
+
 #CodeAlpha Python Internship Tasks - This repository contains my completed tasks for the Python Programming Internship at CodeAlpha.
 
 ---
@@ -11,7 +12,7 @@ Simple Hangman Game using Python — CodeAlpha Internship.
 This is a simple console-based Hangman Game developed using Python. The program selects a random word and the user guesses it letter by letter with limited attempts.
 
 Concepts Used:
-- Random module
+- Random 
 - While loop
 - If-else
 - Strings
