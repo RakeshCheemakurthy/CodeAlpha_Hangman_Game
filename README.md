@@ -5,7 +5,7 @@ Python Internship Tasks - Hangman Game, Basic Chatbot and Stock Portfolio Tracke
 
 ---
 
-🎮 CodeAlpha_Hangman_Game
+## 🎮 Project 1 - CodeAlpha_Hangman_Game
 Simple Hangman Game using Python — CodeAlpha Internship.
 
 🎯 Task 1: Hangman Game
