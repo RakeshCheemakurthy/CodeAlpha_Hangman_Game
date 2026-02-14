@@ -1,5 +1,5 @@
 CodeAlpha_Tasks
-Python Internship Tasks - Hangman Game and Basic Chatbot
+Python Internship Tasks - Hangman Game, Basic Chatbot and Stock Portfolio Tracker.
 
 #CodeAlpha Python Internship Tasks - This repository contains my completed tasks for the Python Programming Internship at CodeAlpha.
 
